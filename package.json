@@ -3,7 +3,8 @@
   "displayName": "Spring Endpoints Tester",
   "description": "Test your Spring Boot REST endpoints directly from VS Code - Free IntelliJ IDEA Ultimate alternative",
   "version": "0.1.0",
-  "publisher": "Mamadou SY",
+  "publisher": "mamadousy",
+  "icon": "icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
